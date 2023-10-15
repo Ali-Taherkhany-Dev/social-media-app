@@ -1,2 +1,2 @@
 # Social-Media-App
-a social media app created to test my skills for portfolio
+A Social Media App created to test my skills for portfolio
